@@ -1,4 +1,4 @@
-# Demo NFT Marketplace
+# NFT Marketplace Frontend using NextJS & TypeScript
 
 ### Goals:
 - Concise code
